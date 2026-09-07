@@ -1,6 +1,6 @@
 # Exam Buddy AI
 
-Prompt — CBSE Exam Simulator (Claude.ai Artifact)
+Prompt — CBSE Exam Simulator 
 
 > Paste everything below this line into Claude to generate the app.
 
@@ -88,17 +88,6 @@ Grading rules to put in the system prompt of that call:
 ## Acceptance test
 A user uploads a Class 1-10 any subject PDF, selects two chapters, total 80 marks. The app produces a 5-section paper summing to 80, lets them type answers, grades each with partial marks and feedback, and shows a 63/80-style result with section breakdown and per-question review.
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://paper-pro-pilot.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/8505b04a-8f5d-4bca-b974-b852bcb62081).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
